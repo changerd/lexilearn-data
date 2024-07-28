@@ -28,7 +28,7 @@ The LexiLearn application can synchronize its local vocabulary data with the JSO
 ### Adding New Vocabulary Sets
 
 1. Fork the repository.
-2. Update the vocabularies.json file with the new vocabulary sets.
+2. Update the vocabulary.json file with the new vocabulary sets.
 3. Submit a pull request with your changes.
 
 ## License
