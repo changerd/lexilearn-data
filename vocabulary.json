@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Greetings and farewells (A1)",
+      "level": "Beginner",
+      "theme": "Greetings and farewells",
+      "words": [
+        { "word": "hello", "translation": ["привет"] },
+        { "word": "hi", "translation": ["привет", "здравствуйте"] },
+        { "word": "goodbye", "translation": ["до свидания", "прощай"] },
+        { "word": "please", "translation": ["пожалуйста"] },
+        { "word": "thank you", "translation": ["спасибо"] },
+        { "word": "sorry", "translation": ["извините", "прости"] },
+        { "word": "excuse me", "translation": ["извините", "простите"] }
+      ]
+    },
+    {
+      "name": "Daily life (A1)",
+      "level": "Beginner",
+      "theme": "Daily life",
+      "words": [
+        { "word": "house", "translation": ["дом"] },
+        { "word": "family", "translation": ["семья"] },
+        { "word": "work", "translation": ["работа", "труд"] },
+        { "word": "friend", "translation": ["друг", "подруга"] },
+        { "word": "school", "translation": ["школа"] },
+        { "word": "morning", "translation": ["утро"] },
+        { "word": "night", "translation": ["ночь", "вечер"] }
+      ]
+    },
+    {
+      "name": "Describing appearance and personality (A2)",
+      "level": "Elementary",
+      "theme": "Describing appearance and personality",
+      "words": [
+        { "word": "tall", "translation": ["высокий"] },
+        { "word": "short", "translation": ["низкий", "короткий"] },
+        { "word": "happy", "translation": ["счастливый", "радостный"] },
+        { "word": "sad", "translation": ["грустный", "печальный"] },
+        { "word": "kind", "translation": ["добрый"] },
+        { "word": "angry", "translation": ["злой", "сердитый"] },
+        { "word": "beautiful", "translation": ["красивый", "прекрасный"] }
+      ]
+    },
+    {
+      "name": "Hobbies and interests (A2)",
+      "level": "Elementary",
+      "theme": "Hobbies and interests",
+      "words": [
+        { "word": "reading", "translation": ["чтение"] },
+        { "word": "swimming", "translation": ["плавание"] },
+        { "word": "music", "translation": ["музыка"] },
+        { "word": "painting", "translation": ["живопись", "рисование"] },
+        { "word": "dancing", "translation": ["танцы"] },
+        { "word": "gardening", "translation": ["садоводство"] },
+        { "word": "fishing", "translation": ["рыбалка"] }
+      ]
+    },
+    {
+      "name": "Work and professions (B1)",
+      "level": "Intermediate",
+      "theme": "work and professions",
+      "words": [
+        { "word": "engineer", "translation": ["инженер"] },
+        { "word": "doctor", "translation": ["врач", "доктор"] },
+        { "word": "teacher", "translation": ["учитель", "преподаватель"] },
+        { "word": "manager", "translation": ["менеджер"] },
+        { "word": "lawyer", "translation": ["юрист", "адвокат"] },
+        { "word": "nurse", "translation": ["медсестра", "медбрат"] },
+        { "word": "artist", "translation": ["художник", "артист"] }
+      ]
+    },
+    {
+      "name": "Social issues and environment (B1)",
+      "level": "Intermediate",
+      "theme": "Social issues and environment",
+      "words": [
+        { "word": "pollution", "translation": ["загрязнение"] },
+        { "word": "recycling", "translation": ["переработка", "рециркуляция"] },
+        { "word": "climate", "translation": ["климат"] },
+        { "word": "sustainability", "translation": ["устойчивое развитие"] },
+        { "word": "conservation", "translation": ["сохранение", "охрана"] },
+        { "word": "poverty", "translation": ["бедность", "нищета"] },
+        { "word": "hunger", "translation": ["голод"] }
+      ]
+    },
+    {
+      "name": "Modern technology and media (B2)",
+      "level": "Upper Intermediate",
+      "theme": "Modern technology and media",
+      "words": [
+        { "word": "internet", "translation": ["интернет"] },
+        { "word": "application", "translation": ["приложение"] },
+        { "word": "smartphone", "translation": ["смартфон"] },
+        { "word": "social media", "translation": ["социальные сети"] },
+        { "word": "software", "translation": ["программное обеспечение", "софт"] },
+        { "word": "hardware", "translation": ["аппаратное обеспечение", "железо"] },
+        { "word": "virtual reality", "translation": ["виртуальная реальность"] }
+      ]
+    },
+    {
+      "name": "Global issues and solutions (B2)",
+      "level": "Upper Intermediate",
+      "theme": "Global issues and solutions",
+      "words": [
+        { "word": "poverty", "translation": ["бедность", "нищета"] },
+        { "word": "hunger", "translation": ["голод"] },
+        { "word": "education", "translation": ["образование"] },
+        { "word": "aid", "translation": ["помощь", "поддержка"] },
+        { "word": "refugee", "translation": ["беженец"] },
+        { "word": "conflict", "translation": ["конфликт", "спор"] },
+        { "word": "peace", "translation": ["мир", "покой"] }
+      ]
+    },
+    {
+      "name": "Current news and events (C1)",
+      "level": "Advanced",
+      "theme": "Current news and events",
+      "words": [
+        { "word": "election", "translation": ["выборы"] },
+        { "word": "policy", "translation": ["политика"] },
+        { "word": "protest", "translation": ["протест"] },
+        { "word": "economy", "translation": ["экономика"] },
+        { "word": "crisis", "translation": ["кризис"] },
+        { "word": "negotiation", "translation": ["переговоры"] },
+        { "word": "agreement", "translation": ["соглашение", "договор"] }
+      ]
+    },
+    {
+      "name": "Philosophy and ethics (C1)",
+      "level": "Advanced",
+      "theme": "Philosophy and ethics",
+      "words": [
+        { "word": "morality", "translation": ["мораль", "нравственность"] },
+        { "word": "justice", "translation": ["справедливость"] },
+        { "word": "freedom", "translation": ["свобода"] },
+        { "word": "duty", "translation": ["долг", "обязанность"] },
+        { "word": "virtue", "translation": ["добродетель"] },
+        { "word": "vice", "translation": ["порок"] },
+        { "word": "ethics", "translation": ["этика"] }
+      ]
+    }
+  ]
+  
